@@ -1,1 +1,1 @@
-Esto solo se muestra en el nuevo branch
+Esto se muestra en master y new-branch rama.
