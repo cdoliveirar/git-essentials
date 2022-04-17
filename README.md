@@ -1,4 +1,5 @@
-# git-essentials
+# git-essentials / Git for everybody
+Este curso se va a eneseña como usar el GIT
 
 ## Deployment notes
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed risus id elit finibus pulvinar. Nam feugiat sollicitudin odio, at accumsan ex fermentum ut. Vestibulum lacinia arcu et mattis vestibulum.
